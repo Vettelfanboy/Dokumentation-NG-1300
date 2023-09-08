@@ -74,5 +74,5 @@ Ich habe einen Number Guesser programmiert.
 
 Alle Testfälle funktionieren einwandfrei.
 
-[Den Code finden Sie hier](https://github.com/Vettelfanboy/Dokumentation-NG-1300/blob/main/Program.cs)
+[Den Code finden Sie hier](https://github.com/Vettelfanboy/Dokumentation-NG-1300/tree/main/Number%20guesser%201300/Number%20guesser%201300)
 
